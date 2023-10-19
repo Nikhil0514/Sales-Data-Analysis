@@ -6,7 +6,7 @@ Vrinda Store wants to create an annual sales report for 2022. So that, they can 
 Dataset Consists of monthly Sales data of Vrinda Store.
 Dataset Source - https://bit.ly/3X381ok
 ## Data Analysis
-Using tools like pivot tables and graphs, i have designed a dashboard in excel to answer basic sales related questins as follows:
+Using tools like pivot tables and graphs, i have designed a dashboard in excel to answer basic sales related questions as follows:
 1. Compare the sales and orders using Sinle Chart.
 2. Which month got the highest sales and orders?
 3. What are different order status in 2022?
