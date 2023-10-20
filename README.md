@@ -15,7 +15,7 @@ Using tools like pivot tables and graphs, i have designed a dashboard in excel t
 6. List of top 5 states contributing to the maximum sales?
 7. Relation between age and gender based on number?
 8. Which channel is contributing to maximum sales?
-## INsights
+## Insights
 1. March has the highest sales and orders.
 2. Different order statuses are Delivered - 92%, Refunded - 2%, Returned - 3%, Cancelled - 3%
 3. Women purchased more in 2022.
